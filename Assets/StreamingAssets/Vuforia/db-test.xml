@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="tazza" sideLength="28.590000"/>
+        <ImageTarget name="143_cpc_deejay_ms" size="1.000000 0.781250"/>
+        <ImageTarget name="144_cpc_atleta_ms" size="1.000000 0.748047"/>
+        <ImageTarget name="021_laura_laiv_ms" size="342.000000 512.000000"/>
+        <ImageTarget name="354_matteo_repetto_mua_poster" size="1495.000000 2323.000000"/>
+        <ImageTarget name="cubo.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="cubo.Right" size="1.000000 1.000000"/>
+        <MultiTarget name="cubo">
+            <Part name="cubo.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cubo.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <CylinderTarget name="tazza" version="3.0" targetId="d90967d5c42b4e16af6c1bdae18cfc8d" sideLength="28.590000" topDiameter="25.959999" bottomDiameter="25.959999" sideImage="tazza.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
