@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker-palio-giova" size="1.000000 0.749819" />
+    <ImageTarget name="marker_palio_legnano" size="1.000000 0.789500" />
+  </Tracking>
+</QCARConfig>
